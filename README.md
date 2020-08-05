@@ -1,27 +1,20 @@
-# Capture
+Capturar
+Este projeto foi gerado com a CLI Angular versão 8.3.1.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.1.
+Servidor de desenvolvimento
+Execute ng servepara um servidor dev. Navegue para http://localhost:4200/. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
-## Development server
+Andaimes de código
+Execute ng generate component component-namepara gerar um novo componente. Você também pode usar ng generate directive|pipe|service|class|guard|interface|enum|module.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Construir
+Execute ng buildpara criar o projeto. Os artefatos de construção serão armazenados no dist/diretório Use o --prodsinalizador para uma construção de produção.
 
-## Code scaffolding
+Executando testes de unidade
+Execute ng testpara executar os testes de unidade via Karma .
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Executando testes de ponta a ponta
+Execute ng e2epara executar os testes de ponta a ponta via Transferidor .
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Mais ajuda
+Para obter mais ajuda sobre a CLI angular, use ng helpou vá para o LEIA-ME da CLI angular .
